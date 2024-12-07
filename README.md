@@ -16,3 +16,14 @@ git add origin
 step # 10 to push file local repo git push -u origin main
 working in 6th command
 git add git push
+
+BRANCH :
+git branch -v main
+git branch -git check out -v track (going to another file)
+git branch ( i am standing at main branch but)
+step 01 git branch
+step 02
+to move and create a new branch git check out (if we write -v  it will make branch, we want only to go to another branch)
+git status git commit
+git push -u origin task/development 
+move branch to main
